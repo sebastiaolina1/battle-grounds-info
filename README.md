@@ -1,4 +1,5 @@
-How to use it? Add this project to your list of projects in the latest version of Unity and use "build" to initialize the game.
+How to use it? Add this project to your list of projects in the latest version of Unity and use "build" to initialize the game(use windows profile).
+
 
 Who created it, how, and why? It was entirely created by me.
 
